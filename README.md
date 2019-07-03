@@ -1,2 +1,1 @@
-# js-testes
-Tests Implementation on API
+Using TDD to build some automated tests
